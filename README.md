@@ -1,4 +1,4 @@
-![logo](Github Banner.png)
+![logo](https://github.com/kaminkashi/kaminkashi/commit/ac9c960f823f1869631289bd3d6254357e0bcaef)
 ### Hi there 👋
 
 <!--
