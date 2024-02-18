@@ -22,6 +22,8 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)](https://www.java.com/)
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)](https://python.org/)
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=blue)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)](https://www.mysql.com/)
@@ -32,13 +34,6 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 [![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)](https://www.docker.com/)
 <!-- Add more badges for your favorite languages, tools, and frameworks -->
-## 🔧 Technologies & Tools
-
-Here are some of the technologies and tools I work with:
-
-![Tech1](https://img.shields.io/badge/-Tech1-333333?style=for-the-badge&logo=Tech1)
-![Tech2](https://img.shields.io/badge/-Tech2-333333?style=for-the-badge&logo=Tech2)
-![Tech3](https://img.shields.io/badge/-Tech3-333333?style=for-the-badge&logo=Tech3)
 
 ## 📈 GitHub Stats
 
