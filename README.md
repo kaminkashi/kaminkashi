@@ -41,7 +41,7 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 
 ## 🌟 Featured Projects
 
-<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+- [![Project 1](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 1.
 - [![Project 2](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 2.
 - [![Project 3](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 3.
 
