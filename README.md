@@ -21,6 +21,12 @@ Here are some of the technologies and tools I'm proficient in:
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)](https://python.org/)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=green)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)](https://www.java.com/)
+[![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=blue)](https://reactjs.org/)
 <!-- Add more badges for your favorite languages, tools, and frameworks -->
 ## 🔧 Technologies & Tools
 
