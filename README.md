@@ -27,6 +27,8 @@ Here are some of the technologies and tools I'm proficient in:
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)](https://www.java.com/)
 [![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=blue)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/)
 <!-- Add more badges for your favorite languages, tools, and frameworks -->
 ## 🔧 Technologies & Tools
 
