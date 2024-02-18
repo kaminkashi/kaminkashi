@@ -18,9 +18,6 @@ I'm a FullStack Developer with an insatiable passion for Doing Something Differe
 
 Here are some of the technologies and tools I'm diving into as a beginner:
 
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)](https://python.org/)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=green)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -29,6 +26,11 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 [![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=blue)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=black)](https://git-scm.com/)
+[![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/)
+[![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange)](https://www.postman.com/)
+[![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)](https://www.docker.com/)
 <!-- Add more badges for your favorite languages, tools, and frameworks -->
 ## 🔧 Technologies & Tools
 
