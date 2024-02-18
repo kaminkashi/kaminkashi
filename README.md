@@ -1,5 +1,5 @@
 # 👋 Hey there, fellow coder! Welcome to my GitHub playground! 🚀
-# 👋 Hello, I'm Amar Kumar!
+#  Hello, I'm Amar Kumar!
 
 I'm a FullStack Developer with an insatiable passion for Doing Something Different and Creative. Whether it's crafting innovative solutions or exploring unconventional ideas, I thrive on pushing the boundaries of what's possible. Join me on this exhilarating journey of creativity and code! 💡
 
