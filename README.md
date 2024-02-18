@@ -37,7 +37,11 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarKumar&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarKumar&show_icons=true&theme=radical) 
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
 
 ## 🌟 Featured Projects
 
