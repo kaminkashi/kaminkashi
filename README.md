@@ -41,7 +41,7 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 
 ## 🌟 Featured Projects
 
-- [![Project 1](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 1.
+- [![Project 1]([https://via.placeholder.com/400x200](https://github.com/kaminkashi/kaminkashi/assets/152581912/51e1d55a-36eb-402c-bb49-20c08127df7f))](link-to-project) - Description of Project 1.
 - [![Project 2](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 2.
 - [![Project 3](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 3.
 
