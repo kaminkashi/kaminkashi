@@ -40,6 +40,9 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarKumar&show_icons=true&theme=radical) 
 
 ## 🌟 Featured Projects
+## 🌟 Project Demo
+
+![Demo]([demo](https://github.com/kaminkashi/kaminkashi/assets/152581912/51e1d55a-36eb-402c-bb49-20c08127df7f).gif)
 
 - [!](https://github.com/kaminkashi/kaminkashi/assets/152581912/51e1d55a-36eb-402c-bb49-20c08127df7f)
 - [![Project 2](https://via.placeholder.com/400x200)]([https://via.placeholder.com/400x200](https://github.com/kaminkashi/kaminkashi/assets/152581912/51e1d55a-36eb-402c-bb49-20c08127df7f) - Description of Project 2.
