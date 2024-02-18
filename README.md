@@ -2,7 +2,7 @@
 
 I'm a FullStack Developer who loves Doing Someting Different and Creative. Welcome to my GitHub playground!
 
-![Header](https://github.com/kaminkashi/kaminkashi/assets/152581912/0a4a45db-e784-46a4-b1da-f077b3bf03e2/800x200)
+![Header](https://github.com/kaminkashi/kaminkashi/assets/152581912/28f2930b-cb48-4733-859e-1aba70d25e7a)
 
 ## 🚀 About Me
 
