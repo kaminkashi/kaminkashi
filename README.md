@@ -16,7 +16,7 @@ I'm a FullStack Developer with an insatiable passion for Doing Something Differe
   
   ## 💻 Technologies & Tools
 
-Here are some of the technologies and tools I'm proficient in:
+Here are some of the technologies and tools I'm diving into as a beginner:
 
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)](https://python.org/)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
