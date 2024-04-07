@@ -44,7 +44,7 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 ![Demo](demo.gif)
 
 
-- [![Project 3](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 3.
+- [![Project 3]([https://via.placeholder.com/400x200](https://github.com/kaminkashi/kaminkashi/commit/ac9c960f823f1869631289bd3d6254357e0bcaef#commitcomment-140706737))](link-to-project) - Description of Project 3.
 
 ## 📝 Latest Blog Posts
 
