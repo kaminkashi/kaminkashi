@@ -1,7 +1,8 @@
 # 👋 Hey there, fellow coder! Welcome to my GitHub playground!
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Kaminkashi;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+artist"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Kaminkashi;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+artist">
+</p>
 
 I'm a FullStack Developer with an insatiable passion for Doing Something Different and Creative. Whether it's crafting innovative solutions or exploring unconventional ideas, I thrive on pushing the boundaries of what's possible. Join me on this exhilarating journey of creativity and code! 💡
 
