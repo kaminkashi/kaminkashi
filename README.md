@@ -1,5 +1,7 @@
 # 👋 Hey there, fellow coder! Welcome to my GitHub playground! 🚀
-#  Hello, I'm Amar Kumar!
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Kaminkashi;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+artist"></p>
 
 I'm a FullStack Developer with an insatiable passion for Doing Something Different and Creative. Whether it's crafting innovative solutions or exploring unconventional ideas, I thrive on pushing the boundaries of what's possible. Join me on this exhilarating journey of creativity and code! 💡
 
@@ -35,13 +37,18 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 [![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)](https://www.docker.com/)
 <!-- Add more badges for your favorite languages, tools, and frameworks -->
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarKumar&show_icons=true&theme=radical) 
 
-## 🌟 Featured Projects
-## 🌟 Project Demo
-
+<p align="center">
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=kaminkashi&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kaminkashi" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kaminkashi&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaminkashi&theme=tokyonight&hide_border=true" align="left" width="450" alt="kaminkashi"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaminkashi&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="kaminkashi"/>
+</p>
 
 ## 📝 Latest Blog Posts
 
@@ -49,10 +56,10 @@ Here are some of the technologies and tools I'm diving into as a beginner:
 <div align="center">
 <table border="0">
   <tr>
-    <td> <a href="https://linkedin.com/in/kaminkashi" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-kaminkashi-%23FC5531?style=for-the-badge"> </a> </td>
+   <!-- <td> <a href="https://linkedin.com/in/kaminkashi" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-kaminkashi-%23FC5531?style=for-the-badge"> </a> </td>
     <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
     <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
-    </tr>
+    </tr> -->
 </table>
 </div>
 
@@ -287,18 +294,7 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 
 ------------------------
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-
-<p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=kaminkashi&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kaminkashi" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kaminkashi&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaminkashi&theme=tokyonight&hide_border=true" align="left" width="450" alt="kaminkashi"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaminkashi&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="kaminkashi"/>
-</p>
 
 ----------------------
 
