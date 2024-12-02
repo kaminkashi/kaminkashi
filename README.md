@@ -9,7 +9,7 @@ I'm a FullStack Developer with an insatiable passion for Doing Something Differe
 ![Header](https://github.com/kaminkashi/kaminkashi/assets/152581912/a5efd2ec-cf31-405e-8f43-58edc827e9eb)
 
 
-## 🌟 About Me 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaminkashi&label=Profile%20views&color=0e75b6&style=flat" alt="kaminkashi" width="150"/> </p>
 
 - 🤖 I'm passionate about technology and love diving into new concepts.
 - 📚 Constantly learning and exploring new things.
