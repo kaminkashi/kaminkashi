@@ -1,4 +1,4 @@
-# 👋 Hey there, fellow coder! Welcome to my GitHub playground! 🚀
+# 👋 Hey there, fellow coder! Welcome to my GitHub playground!
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Kaminkashi;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+artist"></p>
