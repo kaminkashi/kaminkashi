@@ -1,75 +1,30 @@
-# 👋 Hey there, fellow coder! Welcome to my GitHub playground! 🚀
-#  Hello, I'm Amar Kumar!
+![logo]()
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Kaminkashi;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+artist"></p>
+<h3 align="center">SDE-Intern @ name () | CSE Core, Final Year, Bca of 2021-23 | Lead at xxxx 2023-24 | Ex-SDE Intern @  | Ex-Technical Writer Intern @ name | IEEE Student Branch Secretary </h3>
 
-I'm a FullStack Developer with an insatiable passion for Doing Something Different and Creative. Whether it's crafting innovative solutions or exploring unconventional ideas, I thrive on pushing the boundaries of what's possible. Join me on this exhilarating journey of creativity and code! 💡
+<img align="right" alt="coding" width="500" src="https://github.com/kaminkashi.in3/kaminkashi/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaminkashi&label=Profile%20views&color=0e75b6&style=flat" alt="kaminkashi" width="150"/> </p>
 
-![Header](https://github.com/kaminkashi/kaminkashi/assets/152581912/a5efd2ec-cf31-405e-8f43-58edc827e9eb)
+- 🔭 I am working on: Summer Of Code 2024!
 
+- 🌱 I am currently learning: **AI & ML, Cloud**
 
-## 🌟 About Me 🚀
+- 📝 I write articles here: <a href="#">Medium</a>
 
-- 🤖 I'm passionate about technology and love diving into new concepts.
-- 📚 Constantly learning and exploring new things.
-- 💡 I enjoy solving problems and building cool stuff.
+- 💬 Ask me about: **Full Stack Development, Graphic Designing, Literature & Poetry**
 
-  
-  ## 💻 Technologies & Tools
+- 📫 Reach out at: **#**
 
-Here are some of the technologies and tools I'm diving into as a beginner:
+- ⚡ Fun fact: ** ⚡!!**
 
-[![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=green)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)](https://www.java.com/)
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)](https://python.org/)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=blue)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=orange)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=black)](https://git-scm.com/)
-[![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/)
-[![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=orange)](https://www.postman.com/)
-[![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)](https://www.docker.com/)
-<!-- Add more badges for your favorite languages, tools, and frameworks -->
+-----------------------
+## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A wee bit about Myself :)</b>
 
-## 📈 GitHub Stats
+```javascript
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarKumar&show_icons=true&theme=radical) 
-
-## 🌟 Featured Projects
-## 🌟 Project Demo
-![Demo](demo.gif)
-
-
-[![Project 3](https://via.placeholder.com/400x200)](link-to-project) - Description of Project 3. [GitHub Commit Comment](https://github.com/kaminkashi/kaminkashi/commit/ac9c960f823f1869631289bd3d6254357e0bcaef#commitcomment-140706737)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](link-to-blog-post)
-- [Blog Post 2](link-to-blog-post)
-- [Blog Post 3](link-to-blog-post)
-<!-- BLOG-POST-LIST:END -->
-
-## 📫 Connect with Me
-
-Let's connect and chat! You can find me on:
-
-[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social&logo=twitter)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.yourportfolio.com)
-
-## 📫 Let's Connect
-
-- Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
-- Follow me on [Twitter](https://twitter.com/your-handle)
-- Visit my [personal website](https://your-website.com)
-
-<!-- Add more ways to connect or your social media links -->
-Feel free to explore my repositories and reach out to collaborate on exciting projects!
+------------------
 
 ## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Education</b>
 <br>
@@ -80,9 +35,9 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 <!-- START_SECTION:blog -->
 | Qualification | Studied At | Institute | Affiliated By | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | Nov 2021-Present | 8.95 CGPA |
-| Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | GRM School, Bareilly | CBSE | 2020-2021 | 98.4 % |
-| Highschool | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/b2f4eb6c-dfdb-4b39-bfaf-67cb83a6a774" width="40" height="30"> | GRM School, Bareilly | CBSE | 2018-2019 | 98.2 % |
+| B.C.A| <img src=" " width="40" height="30"> | G. V. govt School. and Govt. | Govt | Nov 2021-Present | 8.95 CGPA |
+| Intermediate | <img src="" width="40" height="30"> | govt School. and Govt | CBSE | 2020-2021 | 98.4 % |
+| Highschool | <img src="" width="40" height="30"> | govt School, and Govt | CBSE | 2018-2019 | 98.2 % |
 <!-- END_SECTION:blog -->
 </td>
 </tr>
@@ -93,17 +48,17 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 <br>
 
 <p align="left"> 
-  <a href="https://leetcode.com/u/pathakjuhi/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/juhi_pathak" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/pathakkakul" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/juhipathak" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@pathakkakul" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/juhipathak" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ur lin/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ur link/">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ur link/" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ur link/" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ur link/" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ur link/" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 -------------------
 
-## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY</b>
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-Kaminkshi</b>
 
 ### 📋 Programming languages I have used :)
 
@@ -326,7 +281,7 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 <div align="center">
 <table border="0">
   <tr>
-    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://linkedin.com/in/kamikashi" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Kaminkashi-%23FC5531?style=for-the-badge"> </a> </td>
     <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
     <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
     <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
@@ -340,15 +295,17 @@ Feel free to explore my repositories and reach out to collaborate on exciting pr
 
 
 <p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=juhipathak23&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="juhipathak23" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhiPathak23&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Kaminkashi_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kaminkashi" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kaminkashi=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuhiPathak23&theme=tokyonight&hide_border=true" align="left" width="450" alt="Juhi Pathak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juhipathak23&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Juhi Pathak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaminkashi=tokyonight&hide_border=true" align="left" width="450" alt="kaminkashi"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaminkashi_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="kaminkashi"/>
 </p>
 
 ----------------------
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
+
+<p><a href="https://www.buymeacoffee.com/kaminkashi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="kaminkashi" /></a><a href="https://ko-fi.com/kaminkashi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="kaminkashi" /></a></p><br><br>
