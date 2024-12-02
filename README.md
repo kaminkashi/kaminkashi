@@ -26,39 +26,21 @@
 
 ------------------
 
-## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Education</b>
-<br>
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
-  
-<!-- START_SECTION:blog -->
-| Qualification | Studied At | Institute | Affiliated By | Year of Study | Percentage |
-| :-: | :---: | :----: | :--: | :--: | :--: |
-| B.C.A| <img src=" " width="40" height="30"> | G. V. govt School. and Govt. | Govt | Nov 2021-Present | 8.95 CGPA |
-| Intermediate | <img src="" width="40" height="30"> | govt School. and Govt | CBSE | 2020-2021 | 98.4 % |
-| Highschool | <img src="" width="40" height="30"> | govt School, and Govt | CBSE | 2018-2019 | 98.2 % |
-<!-- END_SECTION:blog -->
-</td>
-</tr>
-</table>  
-
--------------------
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming </b>
 <br>
 
 <p align="left"> 
-  <a href="https://ur lin/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ur link/">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ur link/" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ur link/" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ur link/" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ur link/" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/pathakjuhi/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/juhi_pathak" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/pathakkakul" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/juhipathak" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/@pathakkakul" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.naukri.com/code360/profile/juhipathak" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 -------------------
 
-## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-Kaminkshi</b>
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY</b>
 
 ### 📋 Programming languages I have used :)
 
@@ -281,7 +263,7 @@
 <div align="center">
 <table border="0">
   <tr>
-    <td> <a href="https://linkedin.com/in/kamikashi" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Kaminkashi-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
     <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
     <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
     <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
@@ -295,17 +277,15 @@
 
 
 <p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Kaminkashi_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kaminkashi" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kaminkashi=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=juhipathak23&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="juhipathak23" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JuhiPathak23&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaminkashi=tokyonight&hide_border=true" align="left" width="450" alt="kaminkashi"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaminkashi_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="kaminkashi"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuhiPathak23&theme=tokyonight&hide_border=true" align="left" width="450" alt="Juhi Pathak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juhipathak23&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Juhi Pathak"/>
 </p>
 
 ----------------------
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
-
-<p><a href="https://www.buymeacoffee.com/kaminkashi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="kaminkashi" /></a><a href="https://ko-fi.com/kaminkashi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="kaminkashi" /></a></p><br><br>
